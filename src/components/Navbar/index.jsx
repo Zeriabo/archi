@@ -76,8 +76,7 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                   <a className="nav-link">About</a>
                 </Link>
               </li>
-           
-              
+
               <li className="nav-item">
                 <Link href="/">
                   <a className="nav-link">Contact</a>
