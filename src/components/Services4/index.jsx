@@ -63,8 +63,8 @@ const Services4 = () => {
             <h2 className="custom-font numb">01</h2>
             <h6 className="mb-20">Architecture</h6>
             <p>
-              Cras mollis turpis a ipsum ultes, nec cond imentum ipsum
-              consequat.
+            
+Exterior architectural feature means the architectural elements embodying style, design, general arrangement, and components of all the outer surfaces of an improvement, including, but not limited to, the architectural style, design, arrangement, massing, texture, painted and unpainted surfaces and materials.
             </p>
             <Link href="#">
               <a className="more custom-font mt-30">Read More</a>

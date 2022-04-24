@@ -43,7 +43,7 @@ const Services3 = ({ bigTitle, grid }) => {
                 <p>{item.content}</p>
                 <Link href="/about">
                   <a className={`more ${!grid ? "custom-font" : ""} mt-30`}>
-                    Read More
+                    Read More 
                   </a>
                 </Link>
               </div>

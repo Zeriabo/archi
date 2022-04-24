@@ -14,8 +14,8 @@ const Services5 = () => {
             <span className="icon flaticon-home"></span>
             <h6 className="mb-20">Architecture</h6>
             <p>
-              Cras mollis turpis a ipsum ultes, nec cond imentum ipsum
-              consequat.
+             
+Exterior architectural feature means the architectural elements embodying style, design, general arrangement, and components of all the outer surfaces of an improvement, including, but not limited to, the architectural style, design, arrangement, massing, texture, painted and unpainted surfaces and materials.
             </p>
             <Link href="/about">
               <a className="more mt-30">Read More</a>
@@ -26,8 +26,7 @@ const Services5 = () => {
             <span className="icon flaticon-kitchen-2"></span>
             <h6 className="mb-20">Interior Design</h6>
             <p>
-              Cras mollis turpis a ipsum ultes, nec cond imentum ipsum
-              consequat.
+             bla bla bla
             </p>
             <Link href="/about">
               <a className="more mt-30">Read More</a>

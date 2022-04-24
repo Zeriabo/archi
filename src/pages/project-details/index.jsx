@@ -2,7 +2,7 @@
 import React from "react";
 import MainLayout from "../../layouts/main";
 import PageHeader from "../../components/Page-header";
-import ProjectIntro from "../../components/Project-Intro";
+import Project1Intro from "../../components/Project1-Intro";
 import NextProject from "../../components/Next-Project";
 import ProjectVideo from "../../components/Project-Video";
 
@@ -22,7 +22,7 @@ const ProjectDetails = () => {
         ]}
         image="/assets/img/portfolio/project1/bg.jpg"
       />
-      <ProjectIntro />
+      <Project1Intro />
       <section className="projdtal">
         <div className="justified-gallery">
           <div className="row">

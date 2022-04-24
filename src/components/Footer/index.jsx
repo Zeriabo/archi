@@ -13,25 +13,19 @@ const Footer = ({ classText }) => {
                 <h5>Contact Us</h5>
               </div>
               <ul>
-                <li>
-                  <span className="icon pe-7s-map-marker"></span>
-                  <div className="cont">
-                    <h6>Officeal Address</h6>
-                    <p>504 White St . Dawsonville, GA 30534 , New York</p>
-                  </div>
-                </li>
+             
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <p>support@gmail.com</p>
+                    <p>Int.arch.Mohammad.alsheyah@gmail.com</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <p>+87986451666</p>
+                    <p>+971544641349</p>
                   </div>
                 </li>
               </ul>
@@ -45,26 +39,10 @@ const Footer = ({ classText }) => {
               <ul>
                 <li>
                   <div className="img">
-                    <Link href="/blog-details">
-                      <a>
-                        <img src="/assets/img/blog/1.jpg" alt="" />
-                      </a>
-                    </Link>
-                  </div>
-
-                  <div className="sm-post">
-                    <Link href="/blog-details">
-                      <a>
-                        <p>
-                          The Start-Up Ultimate Guide to Make Your WordPress
-                          Journal.
-                        </p>
-                      </a>
-                    </Link>
-                    <span className="date">14 Jan 2022</span>
+                   coming soon
                   </div>
                 </li>
-                <li>
+                {/* <li>
                   <div className="img">
                     <Link href="/blog-details">
                       <a>
@@ -83,12 +61,9 @@ const Footer = ({ classText }) => {
                     </Link>
                     <span className="date">14 Jan 2022</span>
                   </div>
-                </li>
+                </li> */}
                 <li>
-                  <div className="subscribe">
-                    <input type="text" placeholder="Type Your Email" />
-                    <span className="subs pe-7s-paper-plane"></span>
-                  </div>
+                
                 </li>
               </ul>
             </div>
@@ -96,7 +71,7 @@ const Footer = ({ classText }) => {
           <div className="col-lg-4">
             <div className="item">
               <div className="logo">
-                <img src="/assets/img/logo-light.png" alt="" />
+                <img src="/assets/images/logo.jpeg" alt="" />
               </div>
               <div className="social">
                 <Link href="#">
@@ -122,8 +97,8 @@ const Footer = ({ classText }) => {
               </div>
               <div className="copy-right">
                 <p>
-                  © 2022, Arch Template. Made with passion by
-                  <Link href="#">ThemesCamp</Link>.
+                  © 2022, Made with passion by 
+                  <Link href="https://github.com/Zeriabo">Zeriab</Link>.
                 </p>
               </div>
             </div>

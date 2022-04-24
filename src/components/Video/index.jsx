@@ -10,14 +10,14 @@ const Video = () => {
     return (
       <section
         className="video bg-img parallaxie"
-        style={{ backgroundImage: "url(/assets/img/bg-vid.jpg)" }}
+        style={{ backgroundImage: "url(/assets/img/videoBG.png)" }}
       >
         {typeof window !== "undefined" && (
           <ModalVideo
-            channel="vimeo"
+            channel="youtube"
             autoplay
             isOpen={isOpen}
-            videoId="127203262"
+            videoId="Jml8usJ7km8"
             onClose={() => setOpen(false)}
           />
         )}
@@ -27,7 +27,7 @@ const Video = () => {
             e.preventDefault();
             setOpen(true);
           }}
-          href="https://vimeo.com/127203262"
+          href="https://youtu.be/Jml8usJ7km8"
         >
           <div className="vid-butn">
             <span className="icon">

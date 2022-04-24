@@ -341,7 +341,7 @@ const Demos = () => {
                       <span className="icon pe-7s-mail"></span>
                       <div className="cont">
                         <h6>Email Us</h6>
-                        <p>support@gmail.com</p>
+                        <p>Int.arch.Mohammad.alsheyah@gmail.com</p>
                       </div>
                     </li>
                     <li>
@@ -396,7 +396,7 @@ const Demos = () => {
               <div className="col-lg-4">
                 <div className="item">
                   <div className="logo">
-                    <img src="/assets/img/logo-light.png" alt="" />
+                    <img src="/assets/images/logo.jpeg" alt="" />
                   </div>
                   <div className="social">
                     <Link href="#">
@@ -422,8 +422,8 @@ const Demos = () => {
                   </div>
                   <div className="copy-right">
                     <p>
-                      © 2022, Arch Template. Made with passion by
-                      <Link href="#">ThemesCamp</Link>.
+                      © 2022, Made with passion by
+                      <Link href="https://github.com/Zeriabo">Zeriab</Link>.
                     </p>
                   </div>
                 </div>

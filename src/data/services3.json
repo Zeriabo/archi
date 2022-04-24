@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/01.jpg",
+    "image": "/assets/images/img/1.jpg",
     "icon": "icon flaticon-home-1",
     "title": "Architecture",
     "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
   },
   {
     "id": 2,
-    "image": "/assets/img/02.jpg",
+    "image": "/assets/images/img/2.jpg",
     "icon": "icon flaticon-living-room",
     "title": "Interior Design",
     "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."

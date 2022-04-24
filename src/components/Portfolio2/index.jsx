@@ -12,11 +12,11 @@ const Portfolio2 = () => {
         <div className="row">
           <div className="col-lg-3 col-md-6 cluom current" data-tab="tab-1">
             <div className="info">
-              <h6 className="custom-font">Interior</h6>
+              <h6 className="custom-font">Exterior</h6>
               <h5>Exterior Designs</h5>
             </div>
             <div className="more">
-              <Link href="/project-details">
+              <Link href="/exterior-project-details">
                 <a>
                   View Project <i className="fas fa-chevron-right"></i>
                 </a>
@@ -26,10 +26,10 @@ const Portfolio2 = () => {
           <div className="col-lg-3 col-md-6 cluom" data-tab="tab-2">
             <div className="info">
               <h6 className="custom-font">Interior</h6>
-              <h5>Maroon Beach Hotel</h5>
+              <h5>Classical Villa</h5>
             </div>
             <div className="more">
-              <Link href="/project-details">
+              <Link href="/interior1-project-details">
                 <a>
                   View Project <i className="fas fa-chevron-right"></i>
                 </a>
@@ -39,10 +39,10 @@ const Portfolio2 = () => {
           <div className="col-lg-3 col-md-6 cluom" data-tab="tab-3">
             <div className="info">
               <h6 className="custom-font">Interior</h6>
-              <h5>Apartment Renovation</h5>
+              <h5>Interior Project2</h5>
             </div>
             <div className="more">
-              <Link href="/project-details">
+              <Link href="/interior2-project-details">
                 <a>
                   View Project <i className="fas fa-chevron-right"></i>
                 </a>
@@ -52,10 +52,10 @@ const Portfolio2 = () => {
           <div className="col-lg-3 col-md-6 cluom" data-tab="tab-4">
             <div className="info">
               <h6 className="custom-font">Interior</h6>
-              <h5>Modern Minimalist House</h5>
+              <h5>Interior Project3</h5>
             </div>
             <div className="more">
-              <Link href="/project-details">
+              <Link href="/interior3-project-details">
                 <a>
                   View Project <i className="fas fa-chevron-right"></i>
                 </a>
