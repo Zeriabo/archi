@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import worksCardEffect from "../../common/worksCardEffect";
-
+import Video4 from "../Video4";
 
 const Portfolio2 = () => {
   React.useEffect(() => {
@@ -63,6 +63,7 @@ const Portfolio2 = () => {
               </Link>
             </div>
           </div>
+
         
         </div>
       </div>
@@ -88,9 +89,10 @@ const Portfolio2 = () => {
         <div
           id="tab-4"
           className="bg-img tab-img"
-          style={{ backgroundImage: `url(/assets/img/portfolio/full/04.jpg)` }}
+          style={{ backgroundImage: `url(/assets/images/slideCover/1.png)` }}
           data-overlay-dark="2"
         ></div>
+      
       </div>
     </section>
   );
