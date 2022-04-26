@@ -3,6 +3,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Head from "next/head";
+import appData from '../data/app.json'
 
 const MainSkin = ({ children }) => {
   const navbarRef = React.useRef(null);
@@ -19,10 +20,10 @@ const MainSkin = ({ children }) => {
     window.addEventListener("scroll", () => {
       if (window.pageYOffset > 300) {
         navbar.classList.add("nav-scroll");
-        logo.setAttribute("src", "/assets/images/logo.jpeg");
+        logo.setAttribute("src", appData.darkLogo);
       } else {
         navbar.classList.remove("nav-scroll");
-        logo.setAttribute("src", "/assets/images/logo.jpeg");
+        logo.setAttribute("src",appData.lightLogo);
       }
     });
   }, [navbarRef]);

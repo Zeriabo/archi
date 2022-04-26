@@ -71,7 +71,7 @@ const Footer = ({ classText }) => {
           <div className="col-lg-4">
             <div className="item">
               <div className="logo">
-                <img src="/assets/images/logo.jpeg" alt="" />
+                <img src="/assets/logo/logo.jpeg" alt="" />
               </div>
               <div className="social">
                 <Link href="#">

@@ -1,25 +1,21 @@
 {
   "image": "/assets/img/slid/2.jpg",
   "services": [
-    {
-      "id": "01",
-      "title": "Architecture",
-      "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
-    },
-    {
-      "id": "02",
-      "title": "Interior Design",
-      "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
-    },
-    {
-      "id": "03",
-      "title": "3D Modeling",
-      "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
-    },
-    {
-      "id": "04",
-      "title": "Furniture Design",
-      "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
-    }
-  ]
+  {
+    "id": "01",
+    "title": "Architecture",
+    "content": "Exterior architectural feature means the architectural elements embodying style, design, general arrangement, and components of all the outer surfaces of an improvement, including, but not limited to, the architectural style, design, arrangement, massing, texture, painted and unpainted surfaces and materials."
+  },
+  {
+    "id": "02",
+    "title": "Interior Design",
+    "content": "  Interior designers make interior spaces functional, safe, and beautiful for almost every type of building. Interior designers make indoor spaces functional, safe, and beautiful by determining space requirements and selecting essential and decorative items, such as colors, lighting, and materials."
+  },
+  {
+    "id": "03",
+    "title": "3D Modeling",
+    "content": " 3D models are used for a variety of mediums including video games, movies, architecture, illustration, engineering, and commercial advertising. The 3D modeling process produces a digital object capable of being fully animated, making it an essential process for character animation and special effects."
+  }
+]
+
 }
