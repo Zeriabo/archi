@@ -1,6 +1,9 @@
 import React from "react";
 import Link from "next/link";
 import worksCardEffect from "../../common/worksCardEffect";
+import ModalVideo from "react-modal-video";
+import "react-modal-video/css/modal-video.css";
+
 
 const Portfolio2 = () => {
   React.useEffect(() => {
@@ -62,6 +65,7 @@ const Portfolio2 = () => {
               </Link>
             </div>
           </div>
+        
         </div>
       </div>
       <div className="glry-img">
@@ -85,6 +89,12 @@ const Portfolio2 = () => {
         ></div>
         <div
           id="tab-4"
+          className="bg-img tab-img"
+          style={{ backgroundImage: `url(/assets/img/portfolio/full/04.jpg)` }}
+          data-overlay-dark="2"
+        ></div>
+         <div
+          id="tab-5"
           className="bg-img tab-img"
           style={{ backgroundImage: `url(/assets/img/portfolio/full/04.jpg)` }}
           data-overlay-dark="2"
