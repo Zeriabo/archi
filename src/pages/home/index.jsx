@@ -8,6 +8,7 @@ import Portfolio2 from "../../components/Portfolio2"
 import Services3 from "../../components/Services3"
 import Exterior from "../../components/exterior";
 import Interior from "../../components/interior";
+import Plans from "../../components/plans";
 const Home5 = () => {
   React.useEffect(() => {
     document.querySelector("body").classList.add("index3");
@@ -18,6 +19,7 @@ const Home5 = () => {
       <Services3 bigTitle grid />
       <Exterior />
       <Interior />
+      <Plans />
       {/* <Portfolio2/>
       <Video />
       <Video2/>
