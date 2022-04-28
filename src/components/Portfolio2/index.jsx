@@ -89,7 +89,7 @@ const Portfolio2 = () => {
         <div
           id="tab-4"
           className="bg-img tab-img"
-          style={{ backgroundImage: `url(/assets/images/slideCover/1.png)` }}
+          style={{ backgroundImage: `url(/assets/img/portfolio/full/04.jpg)` }}
           data-overlay-dark="2"
         ></div>
       

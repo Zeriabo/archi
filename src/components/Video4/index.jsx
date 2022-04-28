@@ -1,5 +1,4 @@
 import React from "react";
-
 import "react-modal-video/css/modal-video.css";
 import useScript from "../../../public/js/custom-hook/useScript.js";
 
@@ -11,9 +10,12 @@ const Video4 = () => {
   }, []);
  
   return (
-    <div id="container">
-<div  style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '100vh'}}  id ="kuula"></div>
+    <div class="max-width centered">
+    <div class="sixteen-by-nine">
+    <div  style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '100vh'}}  id ="kuula"></div>
     </div>
+</div>
+  
   );
 };
 
