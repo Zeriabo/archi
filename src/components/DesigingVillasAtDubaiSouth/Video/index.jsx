@@ -82,7 +82,7 @@ const DubaiVillaVideo1 = () => {
       </section>
     );
 }
-// https://www.youtube.com/watch?v=O4hE0MTrwjA&t=31s
+
 export default DubaiVillaVideo1
 
 

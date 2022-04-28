@@ -33,11 +33,6 @@ const Home5 = () => {
       <ModernVillaAtDubai />
 
  
-      {/* <Portfolio2/>
-      <Video />
-      <Video2/>
-      <Video4 /> */}
- 
     </MainLayout>
   );
 };
