@@ -34,6 +34,8 @@ const DubaiVillaVideo1 = () => {
     }, [])
     const [isOpen, setOpen] = React.useState(false);
     return (
+      <div>
+         <h3>Video's</h3>
       <section
         className="video bg-img parallaxie"
        
@@ -80,6 +82,7 @@ const DubaiVillaVideo1 = () => {
         )}
       
       </section>
+      </div>
     );
 }
 

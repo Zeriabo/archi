@@ -36,7 +36,9 @@ const InteriorVilla360 = ()=> {
   return (
  <div > 
   
- 
+
+  
+  
     <Gallery uiElements={uiElements}>
       <div
         style={{
