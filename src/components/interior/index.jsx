@@ -55,7 +55,7 @@ const Interior = ()=> {
           interior1.map((image, i) => {     
                    
            
-           return ( <Item
+           return ( <Item key={i}
             caption="Interior1"
             alt="Interior1"
           cropped={true}
@@ -76,7 +76,7 @@ const Interior = ()=> {
        {
             interior2.map((image, i) => {     
                     
-             return ( <Item
+             return ( <Item key={i}
               caption="Interior2"
               alt="Interior2"
             cropped={true}
@@ -97,7 +97,7 @@ const Interior = ()=> {
        {
             interior3.map((image, i) => {     
             
-             return ( <Item
+             return ( <Item key={i}
               caption="Interior3"
               alt="Interior3"
             cropped={true}
@@ -117,7 +117,7 @@ const Interior = ()=> {
        {
             interior4.map((image, i) => {     
                         
-             return ( <Item
+             return ( <Item key={i}
               caption="Interior3"
               alt="Interior3"
             cropped={true}
@@ -137,7 +137,7 @@ const Interior = ()=> {
        {
             interior5.map((image, i) => {     
                         
-             return ( <Item
+             return ( <Item key={i}
               caption="Interior5"
               alt="Interior5"
             cropped={true}
@@ -238,7 +238,7 @@ const Interior = ()=> {
             title: 'interior4',
           },
           {
-              
+
           }
           
       ];

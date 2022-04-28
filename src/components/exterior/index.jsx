@@ -50,7 +50,7 @@ const Exterior = ()=> {
         }}
       >
         <p>Project 1</p>
-    <Item
+    <Item 
       caption="Project1"
       alt="Project1"
     cropped={true}

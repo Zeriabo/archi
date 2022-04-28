@@ -55,8 +55,7 @@ const Plans = ()=> {
      itemData.map((image, i) => {     
                         
              return ( 
-             
-             <Item
+             <Item key={i}
               caption="Interior5"
               alt="Interior5"
             cropped={true}
