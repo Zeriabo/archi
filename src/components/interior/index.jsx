@@ -152,6 +152,26 @@ const Interior = ()=> {
           })
        
        }
+        <p>Project 6</p>
+       
+       {
+            interior6.map((image, i) => {     
+                        
+             return ( <Item key={i}
+              caption="Interior6"
+              alt="Interior6"
+            cropped={true}
+              original={image.img}
+              thumbnail={image.img}
+              width="1024"
+              height="768">
+               {({ ref, open }) => (
+         <img ref={ref} onClick={open} src={image.img} />
+       )}    
+              </Item>) 
+          })
+       
+       }
     </div>
   </Gallery>
  
@@ -260,6 +280,30 @@ const Interior = ()=> {
             img: '/assets/images/interior/interior5/3.jpeg',
             title: 'interior5',
           },
-          
+          {
+
+        },
+      ];
+      const interior6 = [
+
+        {
+          img: '/assets/images/interior/interior6/1.jpg',
+          title: 'interior6',
+        },
+        {
+          img:'/assets/images/interior/interior6/2.jpg',
+          title: 'interior6',
+        },
+        {
+
+        },
+        {
+            img: '/assets/images/interior/interior6/3.jpg',
+            title: 'interior6',
+          },
+          {
+            img: '/assets/images/interior/interior6/4.jpeg',
+            title: 'interior6',
+          },
       ];
 export default Interior;
