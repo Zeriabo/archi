@@ -1,14 +1,12 @@
 import React from 'react'
 import ModalVideo from "react-modal-video";
 import "react-modal-video/css/modal-video.css";
-import Link from "next/link";
-import worksCardEffect from "../../common/worksCardEffect";
-import Video4 from "../Video4";
+
 import 'photoswipe/dist/photoswipe.css'
 
 import { Gallery, Item } from 'react-photoswipe-gallery'
 import { ViewColumn, ViewColumnSharp } from "@mui/icons-material";
-const Video = () => {
+const DubaiVillaVideo2 = () => {
   const uiElements = [
     {
       name: 'custom-button',
@@ -53,17 +51,17 @@ const Video = () => {
     columnGap:200
   }}
 >
-  <p>Desiging Villas at Dubai South</p>
+
   <ModalVideo
           channel="youtube"
           autoplay
           isOpen={isOpen}
-          videoId="Jml8usJ7km8"
+          videoId="O4hE0MTrwjA&t=31s"
           onClose={() => setOpen(false)}
         />
  <a
         className="vid valign"
-        href="https://youtu.be/Jml8usJ7km8"
+        href="https://www.youtube.com/watch?v=O4hE0MTrwjA&t=31s"
         onClick={(e) => {
           e.preventDefault();
           setOpen(true);
@@ -84,7 +82,7 @@ const Video = () => {
       </section>
     );
 }
-// https://www.youtube.com/watch?v=O4hE0MTrwjA&t=31s
-export default Video
+ 
+export default DubaiVillaVideo2
 
 

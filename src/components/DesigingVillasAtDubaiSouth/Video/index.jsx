@@ -1,14 +1,12 @@
 import React from 'react'
 import ModalVideo from "react-modal-video";
 import "react-modal-video/css/modal-video.css";
-import Link from "next/link";
-import worksCardEffect from "../../common/worksCardEffect";
-import Video4 from "../Video4";
+
 import 'photoswipe/dist/photoswipe.css'
 
 import { Gallery, Item } from 'react-photoswipe-gallery'
 import { ViewColumn, ViewColumnSharp } from "@mui/icons-material";
-const Video = () => {
+const DubaiVillaVideo1 = () => {
   const uiElements = [
     {
       name: 'custom-button',
@@ -85,6 +83,6 @@ const Video = () => {
     );
 }
 // https://www.youtube.com/watch?v=O4hE0MTrwjA&t=31s
-export default Video
+export default DubaiVillaVideo1
 
 
