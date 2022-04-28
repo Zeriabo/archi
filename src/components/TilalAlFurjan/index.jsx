@@ -49,7 +49,7 @@ const Kuula1 = ()=> {
         }}
       >
         <p>Tilal Al Furgan</p>
-        <iframe width="600" height="500" frameborder="0" allow="vr,gyroscope,accelerometer,fullscreen" scrolling="no" allowfullscreen="true"  src={kuula[0].src}></iframe>
+        <iframe width="600" height="500" frameBorder="0" allow="vr,gyroscope,accelerometer,fullscreen" scrolling="no" allowFullScreen="true"  src={kuula[0].src}></iframe>
         
 
   

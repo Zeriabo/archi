@@ -49,7 +49,7 @@ const InteriorVilla360 = ()=> {
         }}
       >
         <p>Interior Villa 360</p>
-        <iframe width="600" height="500" frameborder="0" allow="vr,gyroscope,accelerometer,fullscreen" scrolling="no" allowfullscreen="true"  src={kuula[0].src}></iframe>
+        <iframe width="600" height="500"  allow="vr,gyroscope,accelerometer,fullscreen" scrolling="no" allowFullScreen="true"  src={kuula[0].src}></iframe>
         
 
   
