@@ -10,8 +10,8 @@ const Video4 = () => {
   }, []);
  
   return (
-    <div class="max-width centered">
-    <div class="sixteen-by-nine">
+    <div className="max-width centered">
+    <div className="sixteen-by-nine">
     <div  style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '100vh'}}  id ="kuula"></div>
     </div>
 </div>

@@ -56,9 +56,9 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item dropdown">
-             
-                 <a href="/" >Home</a>
-              
+              <Link href="/">
+                 <a  >Home</a>
+                 </Link>
                 <div className="dropdown-menu">
                  
                
