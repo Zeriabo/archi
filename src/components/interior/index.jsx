@@ -140,7 +140,7 @@ const Interior = ()=> {
              return ( <Item key={i}
               caption="Interior5"
               alt="Interior5"
-            cropped={true}
+              cropped={true}
               original={image.img}
               thumbnail={image.img}
               width="1024"
@@ -387,5 +387,69 @@ const Interior = ()=> {
             img: '/assets/images/interior/interior7/11.jpg',
             title: 'interior6',
           },
+          {
+            img: '/assets/images/interior/interior7/12.jpg',
+            title: 'interior6',
+          },
+          {
+
+          },
+          {
+            img: '/assets/images/interior/interior7/13.jpg',
+            title: 'interior6',
+          },
+          {
+            img: '/assets/images/interior/interior7/14.jpg',
+            title: 'interior6',
+          },
+          {
+
+          },
+          {
+            img: '/assets/images/interior/interior7/15.jpg',
+            title: 'interior6',
+          },
+          {
+            img: '/assets/images/interior/interior7/16.jpg',
+            title: 'interior6',
+          },
+          {
+
+          },
+          {
+            img: '/assets/images/interior/interior7/17.jpg',
+            title: 'interior6',
+          },
+          {
+            img: '/assets/images/interior/interior7/18.jpg',
+            title: 'interior6',
+          },
+          {
+
+          },
+          {
+            img: '/assets/images/interior/interior7/19.jpg',
+            title: 'interior6',
+          },
+          {
+            img: '/assets/images/interior/interior7/20.jpg',
+            title: 'interior6',
+          },
+          {
+
+          },
+          {
+            img: '/assets/images/interior/interior7/21.jpg',
+            title: 'interior6',
+          },
+          {
+            img: '/assets/images/interior/interior7/23.jpg',
+            title: 'interior6',
+          },
+          {
+
+          }
+        
+        
       ];
 export default Interior;
