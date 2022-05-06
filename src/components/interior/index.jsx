@@ -172,6 +172,26 @@ const Interior = ()=> {
           })
        
        }
+       <p>Project 7</p>
+       
+       {
+            interior7.map((image, i) => {     
+                        
+             return ( <Item key={i}
+              caption="Interior7"
+              alt="Interior7"
+            cropped={true}
+              original={image.img}
+              thumbnail={image.img}
+              width="1024"
+              height="768">
+               {({ ref, open }) => (
+         <img ref={ref} onClick={open} src={image.img} />
+       )}    
+              </Item>) 
+          })
+       
+       }
     </div>
   </Gallery>
  
@@ -303,6 +323,68 @@ const Interior = ()=> {
           },
           {
             img: '/assets/images/interior/interior6/4.jpeg',
+            title: 'interior6',
+          },
+      ];
+      const interior7 = [
+
+        {
+          img: '/assets/images/interior/interior7/1.jpg',
+          title: 'interior6',
+        },
+        {
+          img:'/assets/images/interior/interior7/2.jpg',
+          title: 'interior6',
+        },
+        {
+
+        },
+        {
+            img: '/assets/images/interior/interior7/3.jpg',
+            title: 'interior6',
+          },
+          {
+            img: '/assets/images/interior/interior7/4.jpg',
+            title: 'interior6',
+          },
+          {
+
+          },
+          {
+            img: '/assets/images/interior/interior7/5.jpg',
+            title: 'interior6',
+          },
+          {
+            img: '/assets/images/interior/interior7/6.jpg',
+            title: 'interior6',
+          },
+          {
+
+          },
+          {
+            img: '/assets/images/interior/interior7/7.jpg',
+            title: 'interior6',
+          },
+          {
+            img: '/assets/images/interior/interior7/8.jpg',
+            title: 'interior6',
+          },
+          {
+
+          },
+          {
+            img: '/assets/images/interior/interior7/9.jpg',
+            title: 'interior6',
+          },
+          {
+            img: '/assets/images/interior/interior7/10.jpg',
+            title: 'interior6',
+          },
+          {
+
+          },
+          {
+            img: '/assets/images/interior/interior7/11.jpg',
             title: 'interior6',
           },
       ];
