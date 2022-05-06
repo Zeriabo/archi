@@ -330,121 +330,131 @@ const Interior = ()=> {
 
         {
           img: '/assets/images/interior/interior7/1.jpg',
-          title: 'interior6',
+          title: 'interior7',
         },
         {
           img:'/assets/images/interior/interior7/2.jpg',
-          title: 'interior6',
+          title: 'interior7',
         },
         {
 
         },
         {
             img: '/assets/images/interior/interior7/3.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
             img: '/assets/images/interior/interior7/4.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
 
           },
           {
             img: '/assets/images/interior/interior7/5.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
             img: '/assets/images/interior/interior7/6.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
 
           },
           {
             img: '/assets/images/interior/interior7/7.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
             img: '/assets/images/interior/interior7/8.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
 
           },
           {
             img: '/assets/images/interior/interior7/9.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
             img: '/assets/images/interior/interior7/10.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
 
           },
           {
             img: '/assets/images/interior/interior7/11.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
             img: '/assets/images/interior/interior7/12.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
 
           },
           {
             img: '/assets/images/interior/interior7/13.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
             img: '/assets/images/interior/interior7/14.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
 
           },
           {
             img: '/assets/images/interior/interior7/15.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
             img: '/assets/images/interior/interior7/16.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
 
           },
           {
             img: '/assets/images/interior/interior7/17.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
             img: '/assets/images/interior/interior7/18.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
 
           },
           {
             img: '/assets/images/interior/interior7/19.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
             img: '/assets/images/interior/interior7/20.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
 
           },
           {
             img: '/assets/images/interior/interior7/21.jpg',
-            title: 'interior6',
+            title: 'interior7',
           },
           {
             img: '/assets/images/interior/interior7/23.jpg',
-            title: 'interior6',
+            title: 'interior7',
+          },
+          {
+
+          },
+          {
+            img: '/assets/images/interior/interior7/24.jpg',
+            title: 'interior7',
+          },
+          {
+          
           },
           {
 
