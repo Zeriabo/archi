@@ -60,6 +60,7 @@ const DubaiVillaVideo1 = () => {
           isOpen={isOpen}
           videoId="Jml8usJ7km8"
           onClose={() => setOpen(false)}
+          
         />
  <a
         className="vid valign"
