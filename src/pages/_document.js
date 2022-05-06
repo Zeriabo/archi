@@ -16,11 +16,11 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="keywords"
-            content="React Nextjs Template Archo onepage themeforest"
+            content="interior Architect, 3D, interior design, Architect, planning,Architecture"
           />
           <meta
             name="description"
-            content="Archo - Onepage Multi-Purpose React nextjs Template"
+            content="Interior Architect Mohammed El Sheyah "
           />
           <meta name="author" content="" />
 
