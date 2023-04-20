@@ -2,9 +2,11 @@
 import React from "react";
 import Link from "next/link";
 import appData from "../../data/app.json";
-import getSiblings from '../../common/getSiblings'
+import getSiblings from "../../common/getSiblings";
+import { useRouter } from "next/router";
 
 const Navbar = ({ navbarRef, logoRef, logoClass }) => {
+  const router = useRouter();
   const handleDropdown = (e) => {
     getSiblings(e.target.parentElement)
       .filter((item) => item.classList.contains("show"))
@@ -32,7 +34,7 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
     <>
       <nav className="navbar change navbar-expand-lg" ref={navbarRef}>
         <div className="container">
-          <Link href="/demos">
+          <Link href="/">
             <a className={`logo ${logoClass && logoClass}`}>
               <img src={appData.lightLogo} alt="logo" ref={logoRef} />
             </a>
@@ -54,19 +56,36 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
           </button>
 
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul className="navbar-nav ml-auto">
-              <li className="nav-item dropdown">
-              <Link href="/">
-                 <a  >Home</a>
-                 </Link>
-                <div className="dropdown-menu">
-                 
-               
-              
-                </div>
+            <ul className="navbar-nav">
+              <li className="nav-link">
+                <Link href="/">
+                  <a>Home</a>
+                </Link>
               </li>
-          
+
+              <li className="nav-link">
+                <Link href="/architecture">
+                  <a>Architecture</a>
+                </Link>
+              </li>
+              <li className="nav-link">
+                <Link href="/interior">
+                  <a>Interior</a>
+                </Link>
+              </li>
+              <li className="nav-link">
+                <Link href="/furniture">
+                  <a>Furniture</a>
+                </Link>
+              </li>
+              <li className="nav-link">
+                <Link href="/graphics">
+                  <a>Graphics</a>
+                </Link>
+              </li>
             </ul>
+
+            <div className="dropdown-menu"></div>
           </div>
         </div>
       </nav>

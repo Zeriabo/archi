@@ -26,6 +26,7 @@ const MainLayout = ({ children, logoClassText }) => {
       }
     });
   }, [navbarRef]);
+
   return (
     <>
       <Head>
@@ -36,7 +37,9 @@ const MainLayout = ({ children, logoClassText }) => {
         logoRef={logoRef}
         logoClass={logoClassText}
       />
+
       {children}
+
       <Footer />
     </>
   );

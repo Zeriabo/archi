@@ -105,7 +105,6 @@ const Intro4 = () => {
                               {slide.content.second}
                             </p>
                           )}
-                         
                         </div>
                       </div>
                     </div>
