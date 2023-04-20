@@ -41,126 +41,12 @@ const Interior = () => {
             MozColumnGap: 50,
           }}
         >
-          {interior1.map((image, i) => {
+          {interior.map((image, i) => {
             return (
               <Item
                 key={i}
                 caption="Interior1"
                 alt="Interior1"
-                cropped={true}
-                original={image.img}
-                thumbnail={image.img}
-                width="1024"
-                height="768"
-              >
-                {({ ref, open }) => (
-                  <img ref={ref} onClick={open} src={image.img} />
-                )}
-              </Item>
-            );
-          })}
-
-          {interior2.map((image, i) => {
-            return (
-              <Item
-                key={i}
-                caption="Interior2"
-                alt="Interior2"
-                cropped={true}
-                original={image.img}
-                thumbnail={image.img}
-                width="1024"
-                height="768"
-              >
-                {({ ref, open }) => (
-                  <img ref={ref} onClick={open} src={image.img} />
-                )}
-              </Item>
-            );
-          })}
-
-          {interior3.map((image, i) => {
-            return (
-              <Item
-                key={i}
-                caption="Interior3"
-                alt="Interior3"
-                cropped={true}
-                original={image.img}
-                thumbnail={image.img}
-                width="1024"
-                height="768"
-              >
-                {({ ref, open }) => (
-                  <img ref={ref} onClick={open} src={image.img} />
-                )}
-              </Item>
-            );
-          })}
-
-          {interior4.map((image, i) => {
-            return (
-              <Item
-                key={i}
-                caption="Interior3"
-                alt="Interior3"
-                cropped={true}
-                original={image.img}
-                thumbnail={image.img}
-                width="1024"
-                height="768"
-              >
-                {({ ref, open }) => (
-                  <img ref={ref} onClick={open} src={image.img} />
-                )}
-              </Item>
-            );
-          })}
-
-          {interior5.map((image, i) => {
-            return (
-              <Item
-                key={i}
-                caption="Interior5"
-                alt="Interior5"
-                cropped={true}
-                original={image.img}
-                thumbnail={image.img}
-                width="1024"
-                height="768"
-              >
-                {({ ref, open }) => (
-                  <img ref={ref} onClick={open} src={image.img} />
-                )}
-              </Item>
-            );
-          })}
-
-          {interior6.map((image, i) => {
-            return (
-              <Item
-                key={i}
-                caption="Interior6"
-                alt="Interior6"
-                cropped={true}
-                original={image.img}
-                thumbnail={image.img}
-                width="1024"
-                height="768"
-              >
-                {({ ref, open }) => (
-                  <img ref={ref} onClick={open} src={image.img} />
-                )}
-              </Item>
-            );
-          })}
-
-          {interior7.map((image, i) => {
-            return (
-              <Item
-                key={i}
-                caption="Interior7"
-                alt="Interior7"
                 cropped={true}
                 original={image.img}
                 thumbnail={image.img}
@@ -179,199 +65,44 @@ const Interior = () => {
   );
 };
 
-const interior1 = [
+const interior = [
   {
-    img: "/assets/images/interior/interior1/1.jpeg",
+    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_2b588235-3b32-4229-bd66-25deecbd19d6.png",
     title: "interior1",
   },
   {
-    img: "/assets/images/interior/interior1/2.jpeg",
-    title: "interior1",
-  },
-
-  {
-    img: "/assets/images/interior/interior1/3.jpeg",
-    title: "interior1",
-  },
-];
-
-const interior2 = [
-  {
-    img: "/assets/images/interior/interior2/6.jpeg",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior2/7.jpeg",
+    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_34dc0b2e-d2a0-4382-85ef-44a7732482ad.png",
     title: "interior1",
   },
 
   {
-    img: "/assets/images/interior/interior2/8.jpeg",
-    title: "interior1",
-  },
-];
-const interior3 = [
-  {
-    img: "/assets/images/interior/interior3/4.jpeg",
+    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_8863af5a-6171-4ea3-a959-1583ea614a96.png",
     title: "interior1",
   },
   {
-    img: "/assets/images/interior/interior3/5.jpeg",
-    title: "",
+    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_dd98318e-c16b-4e68-99c3-aeeeac88f0fc.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_4d58bab6-9cf5-495e-a070-55d33bca5bdf.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_4d58bab6-9cf5-495e-a070-55d33bca5bdf.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_8ea54716-bac4-4a6a-9fa1-b78b75e9646d.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_844f01ce-ed04-4bd9-86b6-61abca034354.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_6811c0ae-d322-4c26-a409-0ea4b028b5af (1).png",
+    title: "interior1",
   },
 ];
 
-const interior4 = [
-  {
-    img: "/assets/images/interior/interior4/1.jpeg",
-    title: "interior4",
-  },
-  {
-    img: "/assets/images/interior/interior4/2.jpeg",
-    title: "interior4",
-  },
-
-  {
-    img: "/assets/images/interior/interior4/3.jpeg",
-    title: "interior4",
-  },
-];
-const interior5 = [
-  {
-    img: "/assets/images/interior/interior5/1.jpeg",
-    title: "interior5",
-  },
-  {
-    img: "/assets/images/interior/interior5/2.jpeg",
-    title: "interior5",
-  },
-
-  {
-    img: "/assets/images/interior/interior5/3.jpeg",
-    title: "interior5",
-  },
-];
-const interior6 = [
-  {
-    img: "/assets/images/interior/interior6/1.jpg",
-    title: "interior6",
-  },
-  {
-    img: "/assets/images/interior/interior6/2.jpg",
-    title: "interior6",
-  },
-  {
-    img: "/assets/images/interior/interior6/3.jpg",
-    title: "interior6",
-  },
-  {
-    img: "/assets/images/interior/interior6/4.jpeg",
-    title: "interior6",
-  },
-];
-const interior7 = [
-  {
-    img: "/assets/images/interior/interior7/1.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/2.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/3.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/4.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/5.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/6.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/7.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/8.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/9.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/10.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/11.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/12.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/13.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/14.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/15.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/16.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/17.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/18.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/19.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/20.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/21.jpg",
-    title: "interior7",
-  },
-  {
-    img: "/assets/images/interior/interior7/23.jpg",
-    title: "interior7",
-  },
-
-  {
-    img: "/assets/images/interior/interior7/24.jpg",
-    title: "interior7",
-  },
-];
 export default Interior;
