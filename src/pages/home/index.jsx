@@ -14,6 +14,7 @@ import DubaiVillaVideo1 from "../../components/DesigingVillasAtDubaiSouth/Video"
 import DubaiVillaVideo2 from "../../components/DesigingVillasAtDubaiSouth/Video2";
 import Video2 from "../../components/DesigingVillasAtDubaiSouth/Video2";
 import ModernVillaAtDubai from "../../components/ModernVillaAtDubai";
+import Services from "../../components/Services";
 const Home5 = () => {
   React.useEffect(() => {
     document.querySelector("body").classList.add("index3");
@@ -22,7 +23,8 @@ const Home5 = () => {
     <MainLayout>
       <Intro4 />
       <Services3 bigTitle grid />
-      <Exterior />
+      <Services />
+      {/* <Exterior />
       <Interior />
       <Plans />
       <Kuula1 />
@@ -56,7 +58,7 @@ const Home5 = () => {
         <br />
         <br />
       </p>
-      <ModernVillaAtDubai />
+      <ModernVillaAtDubai /> */}
     </MainLayout>
   );
 };
