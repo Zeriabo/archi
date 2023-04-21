@@ -16,7 +16,6 @@ const Home7 = () => {
     <MainLayout>
       <IntroWithVertical2 />
       <AboutUs8 />
-
       <WorkWithoutFilter />
       <Video2 />
       <Team3 />

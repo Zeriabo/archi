@@ -111,10 +111,7 @@ const itemData = [
     img: "/assets/images/exterior/MoChiah_A_stunning_residential_Building_only_penthouses_in_the__e2a156d3-a207-4d2d-946c-854fd8c671a8.png",
     title: "project4",
   },
-  {
-    img: "/assets/images/exterior/MoChiah_A_stunning_Modern_Resturant_with_double_height_designed_cdfc491d-31f1-436f-b95a-c6df13309e97.png",
-    title: "project5",
-  },
+
   {
     img: "/assets/images/exterior/MoChiah_A_stunning_Modern_white_House_only_one_floor_designed_b_76dc206f-d65d-4f4d-a2a1-d8b12a98df6e.png",
     title: "project5",
