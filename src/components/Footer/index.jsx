@@ -13,19 +13,18 @@ const Footer = ({ classText }) => {
                 <h5>Contact Us</h5>
               </div>
               <ul>
-             
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <p>Int.arch.Mohammad.alsheyah@gmail.com</p>
+                    <p>moe.chiah@gmail.com</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <p>+971544641349</p>
+                    <p>+971585600972</p>
                   </div>
                 </li>
               </ul>
@@ -38,9 +37,7 @@ const Footer = ({ classText }) => {
               </div>
               <ul>
                 <li>
-                  <div className="img">
-                   coming soon
-                  </div>
+                  <div className="img">coming soon</div>
                 </li>
                 {/* <li>
                   <div className="img">
@@ -62,9 +59,7 @@ const Footer = ({ classText }) => {
                     <span className="date">14 Jan 2022</span>
                   </div>
                 </li> */}
-                <li>
-                
-                </li>
+                <li></li>
               </ul>
             </div>
           </div>
@@ -97,7 +92,7 @@ const Footer = ({ classText }) => {
               </div>
               <div className="copy-right">
                 <p>
-                  © 2022, Made with passion by 
+                  © 2022, Made with passion by
                   <Link href="https://github.com/Zeriabo">Zeriab</Link>.
                 </p>
               </div>
