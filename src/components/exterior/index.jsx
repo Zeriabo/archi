@@ -36,7 +36,7 @@ const Exterior = () => {
         <div
           style={{
             display: "grid",
-            gridTemplateColumns: "300px 300px 250px",
+            gridTemplateColumns: "300px 300px 300px",
             gridTemplateRows: "300px 300px 300px",
             gridGap: 50,
             justifyContent: "center",

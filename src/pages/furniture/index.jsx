@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import MainLayout from "../../layouts/main";
-import Exterior from "../../components/exterior";
+import Furniturecomp from "../../components/furniture";
 
 const Furniture = () => {
   React.useEffect(() => {
@@ -9,7 +9,7 @@ const Furniture = () => {
   }, []);
   return (
     <MainLayout>
-      <Exterior />
+      <Furniturecomp />
     </MainLayout>
   );
 };
