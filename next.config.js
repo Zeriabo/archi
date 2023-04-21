@@ -9,6 +9,10 @@ module.exports = {
   devIndicators: {
     buildActivity: false,
   },
+  
+  fs: false,
+  path: false
+,
   eslint: {
     ignoreDuringBuilds: false,
   },

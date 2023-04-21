@@ -11,6 +11,7 @@ const MainLayout = ({ children, logoClassText }) => {
   React.useEffect(() => {
     var navbar = navbarRef.current,
       logo = logoRef.current;
+    logo.setAttribute("src", "/assets/images/logo/logo.png");
     if (window.pageYOffset > 300) {
       navbar.classList.add("nav-scroll");
     } else {

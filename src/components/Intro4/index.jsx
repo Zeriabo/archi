@@ -40,7 +40,7 @@ const Intro4 = () => {
               nextEl: navigationNextRef.current,
             }}
             pagination={{
-              type: "fraction",
+              type: "progressbar",
               clickable: true,
               el: paginationRef.current,
             }}
@@ -54,7 +54,7 @@ const Intro4 = () => {
                 for (var i = 0; i < swiper.slides.length; i++) {
                   swiper.slides[i].childNodes[0].setAttribute(
                     "data-swiper-parallax",
-                    0.75 * swiper.width
+                    swiper.width
                   );
                 }
 
@@ -73,14 +73,14 @@ const Intro4 = () => {
               });
             }}
             className="swiper-wrapper"
-            slidesPerView={1}
+            slidesPerView={2}
           >
             {introData.map((slide) => (
               <SwiperSlide key={slide.id} className="swiper-slide">
                 <div
                   className="bg-img valign"
                   style={{ backgroundImage: `url(${slide.image})` }}
-                  data-overlay-dark="6"
+                  data-overlay-dark="5"
                 >
                   <div className="container">
                     <div className="row">

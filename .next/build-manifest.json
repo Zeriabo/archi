@@ -30,11 +30,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/architecture": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/architecture.js"
-    ],
     "/interior": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

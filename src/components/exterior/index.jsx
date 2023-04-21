@@ -7,6 +7,7 @@ import "photoswipe/dist/photoswipe.css";
 
 import { Gallery, Item } from "react-photoswipe-gallery";
 import { ViewColumn, ViewColumnSharp } from "@mui/icons-material";
+const imgFolder = "/assets/images/exterior/";
 
 const Exterior = () => {
   const uiElements = [
@@ -111,10 +112,7 @@ const itemData = [
     img: "/assets/images/exterior/MoChiah_A_stunning_residential_Building_only_penthouses_in_the__e2a156d3-a207-4d2d-946c-854fd8c671a8.png",
     title: "project4",
   },
-  {
-    img: "/assets/images/exterior/MoChiah_A_stunning_Modern_Resturant_with_double_height_designed_cdfc491d-31f1-436f-b95a-c6df13309e97.png",
-    title: "project5",
-  },
+
   {
     img: "/assets/images/exterior/MoChiah_A_stunning_Modern_white_House_only_one_floor_designed_b_76dc206f-d65d-4f4d-a2a1-d8b12a98df6e.png",
     title: "project5",
@@ -206,6 +204,69 @@ const itemData = [
   },
   {
     img: "/assets/images/exterior/MoChiah_A_stunning_residential_Building_only_penthouses_in_the__3fdcc5bc-9ee5-4f00-b484-a2c79eb2cc32.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_modern_front_villa_with_greenery_and_sunlight_hyperre_3c8bcaf5-6320-4db7-82b4-c57405ff5ec2.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_modern_front_villa_with_greenery_and_sunlight_hyperre_8895f72a-a01d-43d3-b9c5-5572ce543bc8.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_modern_front_villa_with_greenery_and_sunlight_hyperre_d1865604-5a30-4159-b5fa-727d6dc92100.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_high_reolution_images_of_modern_villas_like_this_manner_5a31c01c-d158-4775-b6b5-1be692f14011.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_high_reolution_images_of_modern_villas_like_this_manner_6c4f7e3d-e044-4161-9f6d-0ece547b4e9e.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_high_reolution_images_of_modern_villas_like_this_manner_18de9072-b19d-4c46-b63a-863500b10481.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_high_reolution_images_of_modern_villas_like_this_manner_df12f879-772d-4134-9bc5-133983125bc6.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_High_resolution_8k_modern_villas_on_this_manner_8e66326d-0ba6-44ab-ac61-f8b0451074ae.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_High_resolution_8k_modern_villas_on_this_manner_5825fc69-3934-48c8-adf8-7730209850a4.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_High_resolution_8k_modern_villas_on_this_manner_11643d8e-1611-4f82-a241-73e6649b2edd.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_High_resolution_8k_modern_villas_on_this_manner_e224161b-0e2f-4822-82db-cbbcb287bab6.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_modern_front_design_wyse_3d_rendering_in_the_style_of_d_7d508baf-cb26-459e-972c-221f932a3db9.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_modern_front_design_wyse_3d_rendering_in_the_style_of_d_85cc7fc5-c12c-4ae0-b818-0850118e172f.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_modern_front_design_wyse_3d_rendering_in_the_style_of_d_323749d6-3ba0-4446-9e8f-8005d3d8f803.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Several_Images_for_a_Rounded_white_House_in_the_forest__f17da519-494e-4bcc-b585-34959a63f7f0 (1).png",
     title: "project5",
   },
 ];
