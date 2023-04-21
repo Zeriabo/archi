@@ -237,6 +237,91 @@ const itemData = [
     img: "/assets/images/furniture/MoChiah_realistic_dining_modern_room_white_with_soft_yellow_col_364fae96-645b-45c0-bd90-18cff4949fa2.png",
     title: "project1",
   },
+  {
+    img: "/assets/images/furniture/MoChiah_a_shinny_room_with_one_plant_white_sofa_soft_theme_past_dad6a4ec-eae9-440f-9213-caa683143398.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_futuristic_realistic_modern_detailed_furniture_sandy_co_136bce31-e70d-4adf-815c-3d4103fd4ce8.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_futuristic_realistic_modern_detailed_furniture_sandy_co_201948c9-972d-4a3e-8fea-6801eb4057fe.png",
+    title: "project1",
+  },
+
+  {
+    img: "/assets/images/furniture/MoChiah_futuristic_realistic_modern_detailed_furniture_sandy_co_570266e4-1866-4e4d-afc5-9a146ed1af17.png",
+    title: "project1",
+  },
+
+  {
+    img: "/assets/images/furniture/MoChiah_futuristic_realistic_modern_detailed_furniture_sandy_co_ea1af161-dcec-4fdf-b8ff-1c79224ce243.png",
+    title: "project1",
+  },
+
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_Modern_Bed_design_with_furniture_and_so_2736e731-218c-4d96-8d8d-822df757b527.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_Modern_Bed_design_with_furniture_and_so_8765d7b8-60d1-4bc1-bffa-cf45b7e22708.png",
+    title: "project1",
+  },
+
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_Modern_Bed_design_with_furniture_and_so_ed63cca7-08e5-42c3-8bdb-a616f2f0496b.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_bed_with_sandy_colors_white_back_9ee7154c-4e87-4f46-b355-ee215ec1bbf6.png",
+    title: "project1",
+  },
+
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_bed_with_sandy_colors_white_back_045d90f6-9651-49f7-8b01-fd7a21c33376.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_bed_with_sandy_colors_white_back_597ad928-e796-49f9-89d9-d822221cd4d1.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_bed_with_sandy_colors_white_back_dd5a3a85-c17b-4cfa-9c7e-94229d25a335.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_furniture_with_white_background__2d11e1f7-8ec9-4c71-a00d-706eaacfb8d8.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_furniture_with_white_background__563ece93-32c4-496f-837b-7e3f7870ff9e.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_furniture_with_white_background__83329eaf-4698-4b4c-8d40-b97ed052b38d.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_furniture_with_white_background__1751332d-d325-48ea-a825-fdc5decab713.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_furniture_with_white_background__b286dba8-6bb3-466f-bd69-bd04133511eb.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_furniture_with_white_background__c3da9759-b436-476b-8c69-dd62467d91f3.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_sofa_with_pastel_colors_and_whit_1869248d-a04c-4a3a-af0f-6c829aa2cac7.png",
+    title: "project1",
+  },
+  {
+    img: "/assets/images/furniture/MoChiah_hyper_realistic_modern_sofa_with_pastel_colors_and_whit_a3171907-e78a-48af-91e9-4949bcc3ba42.png",
+    title: "project1",
+  },
 ];
 
 export default Furniture;

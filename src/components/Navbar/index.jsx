@@ -78,11 +78,11 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                   <a>Furniture</a>
                 </Link>
               </li>
-              {/* <li className="nav-link">
-                <Link href="/graphics">
+              <li className="nav-link">
+                <Link href="/graphic">
                   <a>Graphics</a>
                 </Link>
-              </li> */}
+              </li>
             </ul>
 
             <div className="dropdown-menu"></div>

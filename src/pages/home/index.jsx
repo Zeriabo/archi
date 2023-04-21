@@ -24,41 +24,6 @@ const Home5 = () => {
       <Intro4 />
       <Services3 bigTitle grid />
       <Services />
-      {/* <Exterior />
-      <Interior />
-      <Plans />
-      <Kuula1 />
-      <p>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-      </p>
-      <DubaiVillaVideo1 />
-      <Video2 />
-      <p>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-      </p>
-      <ModernVillaAtDubai /> */}
     </MainLayout>
   );
 };

@@ -492,6 +492,34 @@ const interior = [
     img: "/assets/images/interior/interior/MoChiah_A_stunning_SPA_soft_colors_with_double_height_and_light_e4abf136-6b4e-459a-b241-c94faa6e43c1.png",
     title: "interior1",
   },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_360_HDRI_image_for_a_modern_living_room_white_and_woo_2d81fb64-b4c4-4991-a21d-fafce3d21682.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_360_HDRI_image_for_a_modern_living_room_white_and_woo_4e496c28-1fb5-4e16-a1df-3fc0f6ab317a.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_360_HDRI_image_for_a_modern_living_room_white_and_woo_5ff850b4-1bae-4f2d-b6d0-a51c87c18fc9.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_360_HDRI_image_for_a_modern_living_room_white_and_woo_a9bf7a5b-77ae-4e84-a0eb-a97ab1add84e.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_resort_loft_in_the_shape_of_a_space_ship_8k_14b38f63-55a0-42a1-88b8-4ef536d25ec4.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_resort_loft_in_the_shape_of_a_space_ship_8k_466a8ba7-0522-4d9a-9535-880c4e79a289.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_resort_loft_in_the_shape_of_a_space_ship_8k_08191c43-3505-49fd-886e-593ad68fc17c.png",
+    title: "interior1",
+  },
 ];
 
 export default Interior;

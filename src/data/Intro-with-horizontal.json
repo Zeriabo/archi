@@ -1,41 +1,49 @@
 [
   {
     "id": 1,
-    "title": { "first": "Architecture & interior", "second": "Innovative Architecture" },
+    "title": { "first": "Innovative Architecture" },
     "content": {
-      "first": "Right design and right ideas matter a lot of in interior design",
-      "second": "business. a style that makes a statement."
+      "first": "Building beyond boundaries:",
+      "second": "Explore the power of innovative architecture with us."
     },
-    "image": "/assets/images/slider/1921-1442.jpeg"
+    "image": "/assets/images/slider/1921-1442.png",
+    "image2": "/assets/images/slider/1921-1442.png"
   },
   {
     "id": 2,
-    "title": { "first": "Architecture & interior", "second": "Classic and Modern" },
+    "title": { "first": "interior", "second": "Classic and Modern" },
     "content": {
-      "first": "Right design and right ideas matter a lot of in interior design",
-      "second": "business. a style that makes a statement."
+      "first": "Transforming spaces into dreams: ",
+      "second": "Experience the magic of our interior design"
     },
-    "image": "/assets/images/slider/1920-1153.jpg"
+    "image": "/assets/images/slider/1920-1153.png"
+    ,
+    "image2": "/assets/images/slider/1921-1442.png"
   },
+
   {
     "id": 3,
-    "title": { "first": "Architecture & interior", "second": "Elegant & Unique Design" },
+    "title": {  "first": "Elegant & Unique Design" },
     "content": {
-      "first": "Right design and right ideas matter a lot of in interior design",
-      "second": "business. a style that makes a statement."
+      "first": "Crafting elegance, tailoring uniqueness",
+      "second": "Our designs are as exceptional as you are."
     },
-    "image": "/assets/images/slider/1920-1282.jpg"
+    "image1": "/assets/images/slider/1920-1282.jpg"
+    ,
+    "image2": "/assets/images/slider/1921-1442.png"
+    
   },
+  
   {
     "id": 4,
     "title": {
-      "first": "Architecture & Interior",
-      "second": "Interior Design"
+      "first": "Furniture design & manufacture"
     },
     "content": {
-      "first": "Right design and right ideas matter a lot of in interior design",
-      "second": "business. a style that makes a statement."
+      "first": "Designing dreams, crafting passions: ",
+      "second": "Our furniture is the heart and soul of your space."
     },
-    "image": "/assets/images/slider/1919-1066.jpg"
+    "image": "/assets/images/slider/1919-1066.png"
   }
+  
 ]
