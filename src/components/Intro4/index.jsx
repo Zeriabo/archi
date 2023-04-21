@@ -73,7 +73,7 @@ const Intro4 = () => {
               });
             }}
             className="swiper-wrapper"
-            slidesPerView={2}
+            slidesPerView={1}
           >
             {introData.map((slide) => (
               <SwiperSlide key={slide.id} className="swiper-slide">
