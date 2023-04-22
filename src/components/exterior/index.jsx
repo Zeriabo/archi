@@ -269,6 +269,198 @@ const itemData = [
     img: "/assets/images/exterior/MoChiah_Several_Images_for_a_Rounded_white_House_in_the_forest__f17da519-494e-4bcc-b585-34959a63f7f0 (1).png",
     title: "project5",
   },
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_all_white_realistic_so_70235dce-8a81-40fa-bfc5-62ea98ebafcb.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_sandy_color_realistic__3e50d375-2277-4743-a573-29208c31ca77.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_sandy_color_realistic__82cb5f17-15c4-4981-9de2-65e8a35714c7.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Were_looking_for_2_exterior_views_of_a_building_thats_a_754d90bd-7fc1-4d24-b8d2-755694881d05.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Were_looking_for_2_exterior_views_of_a_building_thats_a_bc0ed0c4-a616-4975-98a8-09d9830403cc.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_all_black_realistic_so_6aed718f-b7be-4958-91de-9d98ceeb5b36.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_all_black_realistic_so_7e01d47d-efae-46af-b9bc-c6120e029c75.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_all_black_realistic_so_239f5d78-9fd2-41f1-bed5-d1a62dc044e2.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_all_black_realistic_so_c212ee08-dd98-4ec3-86ed-d9a25d2e62ec.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_all_grey_realistic_sof_31e1fe8f-f536-4aa1-912b-02b206c7c40d.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_all_grey_realistic_sof_9225bb4d-40fe-43fc-b8f1-0f4e4023ea43.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_all_grey_realistic_sof_e40c8514-76dc-421c-a6b3-693b4ebe52d6.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_all_white_realistic_so_1c36c505-41c6-489e-8c98-df4ead395308.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_Pool_back_side_all_white_realistic_so_55144e3f-dcc0-4675-8d7b-2e2a1c3e7160.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Modern_House_with_a_garden_in_the_front_and_a_women_pas_99394154-ce7a-4abd-a719-34782fcb6072.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_long_shape_modern-style_car_dealership_and_service_with_5c5844a4-f175-4a1d-84d2-c615e8db9834.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_architectural_photography_of_modern_huge_innovation_cen_7c61b1bc-e598-4460-8b01-68d4392e0055.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_Architecturehigh_rise_building_all_appartments_have_poo_f0c64d26-3c53-44b9-bcdb-dc2a2f7f7867.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_conreate_modern_one_family_house_3fcf01b4-d570-4280-937d-5fdeead3f997.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_conreate_modern_one_family_house_05e0af9e-d079-43f8-be72-7181022674f8.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_conreate_modern_one_family_house_24e07e85-32a0-434e-97fa-898774087f14.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_conreate_modern_one_family_house_b02521a9-bbd5-4d72-a47a-07411c825fb0.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_conreate_modern_one_family_house_e908f014-eaf3-4705-90b5-e7023cb024b2.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_for_a_very_modern_house_concrete_and__7c3c95ae-bb4b-4759-a0b1-93685393bc8f.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_for_a_very_modern_house_concrete_and__545d9fb5-8cbf-49ff-836a-93431ef303ca.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_for_a_very_modern_house_concrete_and__593511ad-f35d-4293-bbc3-84450037d9cf.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_for_a_very_modern_house_concrete_and__d1a9874c-c2ae-44c9-b14f-7f244c42f6ef.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_of_a_modern_black_house_with_soft_yel_79da5a3f-cc83-4a0c-97bb-0cd328896071.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_of_a_modern_black_house_with_soft_yel_57953a9f-ed66-4f87-b4b8-c45b19ca3a66.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_of_a_modern_black_house_with_soft_yel_cbc3a2c0-9271-4e69-aa5a-a59eea7b8e85.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_an_ultra_modern_family_house_all_white_with_sun_rays_an_5d4287f8-13b8-4ba8-9a42-716791ad898b.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_an_ultra_modern_family_house_all_white_with_sun_rays_an_40b281c5-ae11-4042-9537-97ad2b437478.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_an_ultra_modern_family_house_all_white_with_sun_rays_an_e4373614-1e6d-4108-8943-54e26d45a28e.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_for_a_modern_grey_house_with_indirect_cdd4b0d8-1d63-45d8-bd7d-f314e797a281.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_for_a_modern_grey_house_with_indirect_bf6d105c-33b0-410c-8d8c-60d651412801.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_for_a_modern_grey_house_with_indirect_8fcb139d-6fe3-46c9-96a9-e8fee8b9100e.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_for_a_modern_black_house_with_indirec_bc772d38-e941-4224-b6a7-0f64c4cce342.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_for_a_modern_black_house_with_indirec_11731d5c-492b-4743-a6dc-0cfadba1b9f5.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_photo_for_a_modern_black_house_with_indirec_998e77fd-6a9e-4898-bec1-16863bcef03e.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_modern_house_white_colors_with_wood_with_a__b3497a4d-88de-43fc-b12c-35f858708f68.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_modern_house_white_colors_with_wood_with_a__0329f7c6-dde3-48a9-9a67-a4200a42e1b5.png",
+    title: "project5",
+  },
+
+  {
+    img: "/assets/images/exterior/MoChiah_a_realistic_modern_house_white_colors_with_wood_with_a__9e213ead-9175-45a6-8a82-d26c3db3d1e8.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_modern_white_house_soft_lights_and_wood_surrounded_by_57869114-a066-4472-8638-1d12b6022ccc.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_a_modern_white_house_soft_lights_and_wood_surrounded_by_7ed78fd3-5b39-42de-8e9d-742922a32fe3.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_2_floors_modern_house_g1_very_realistic_high_quality_wi_584672e6-f41e-4659-a914-91e15e425bc1.png",
+    title: "project5",
+  },
+  {
+    img: "/assets/images/exterior/MoChiah_2_floors_modern_house_g1_very_realistic_high_quality_wi_f86f2bf9-0dfe-47e3-825f-c621f859e40c.png",
+    title: "project5",
+  },
 ];
 
 export default Exterior;
