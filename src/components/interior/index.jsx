@@ -67,154 +67,6 @@ const Interior = () => {
 
 const interior = [
   {
-    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_2b588235-3b32-4229-bd66-25deecbd19d6.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_34dc0b2e-d2a0-4382-85ef-44a7732482ad.png",
-    title: "interior1",
-  },
-
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_8863af5a-6171-4ea3-a959-1583ea614a96.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_dd98318e-c16b-4e68-99c3-aeeeac88f0fc.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_4d58bab6-9cf5-495e-a070-55d33bca5bdf.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_1eb2b969-600b-4b65-8629-995388e7997e.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_8ea54716-bac4-4a6a-9fa1-b78b75e9646d.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_844f01ce-ed04-4bd9-86b6-61abca034354.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_6811c0ae-d322-4c26-a409-0ea4b028b5af1.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_1eb2b969-600b-4b65-8629-995388e7997e.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_22039f4b-79ae-4f21-8e97-a31ae291c156.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_ea76b873-d1c2-4980-95a4-0e019a35ff0d1.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_ea76b873-d1c2-4980-95a4-0e019a35ff0d.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_f965f322-8d9e-4d9a-bec2-16b76a6ef398.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_with_no_doors_dark_theme_hidden_wa_5cee7249-1265-4612-921b-f65467b583fb.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_with_no_doors_dark_theme_hidden_wa_6c86a4d0-3deb-432e-b5e6-886d31cf7987.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_with_no_doors_dark_theme_hidden_wa_7b4e2fcd-d7eb-4693-b9b1-10efa9c6a008.png",
-    title: "interior1",
-  },
-
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_dark_theme_hidden_warm_ligh_9d217093-a72f-4fa4-81d7-6627f367a575.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_dark_theme_hidden_warm_ligh_ba229ea7-5080-406c-b4f7-178534b298ff.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_dark_theme_hidden_warm_ligh_c9811aee-81b6-4fef-b1dc-bbe2d8f61bf5.png",
-    title: "interior1",
-  },
-
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_dark_theme_hidden_warm_ligh_fd0b4170-9637-415d-9437-15633af2fae4.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_light_theme_hidden_warm_lig_584c364c-e3b8-48c5-8084-1abbdf2af67b.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_light_theme_hidden_warm_lig_943213d3-044f-4fd7-b9cf-cf119ea39d9b.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_light_theme_hidden_warm_lig_b99ff668-3835-43a2-9922-e699f4c8f95c.png",
-    title: "interior1",
-  },
-
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_with_marble_dark_theme_hidd_1a66aa62-4910-4669-a2e6-cf0fb142df3e.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_with_marble_dark_theme_hidd_6b9337af-c7fb-469d-870f-7ded7be5ee0d.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_with_marble_dark_theme_hidd_7dbd4e8c-9625-4c58-8813-748f5be5b7dc.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_with_marble_dark_theme_hidd_43e57931-89aa-40bc-99d7-53dddcf983061.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_with_marble_dark_theme_hidd_43e57931-89aa-40bc-99d7-53dddcf98306.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_room_size_modern_bathroom_all_white_with_marble_and_H_3f134fe6-1e5f-4c55-bcbf-c5fd67322ac1.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_room_size_modern_bathroom_all_white_with_marble_and_H_7d5ff4b3-94ec-44bb-b847-4ae7849b4722.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_room_size_modern_bathroom_all_white_with_marble_and_H_701afe57-5081-4c83-8945-17185a6e7dc2.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_room_size_modern_bathroom_all_white_with_marble_and_H_fa7524a7-bd3d-4e8a-8206-39790accba06.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_shinny_room_with_one_plant_white_sofa_soft_theme_past_463c22a8-4c52-4d24-b13d-d46aedc86983.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_shinny_room_with_one_plant_white_sofa_soft_theme_past_957edaef-c4a9-4bfb-b363-23d21b5a3312.png",
-    title: "interior1",
-  },
-  {
-    img: "/assets/images/interior/interior/MoChiah_a_shinny_room_with_one_plant_white_sofa_soft_theme_past_3972f193-5265-4c83-8359-0d33ea0afd44.png",
-    title: "interior1",
-  },
-  {
     img: "/assets/images/interior/interior/MoChiah_a_shinny_room_with_one_plant_white_sofa_soft_theme_past_dad6a4ec-eae9-440f-9213-caa683143398.png",
     title: "interior1",
   },
@@ -518,6 +370,151 @@ const interior = [
   },
   {
     img: "/assets/images/interior/interior/MoChiah_a_resort_loft_in_the_shape_of_a_space_ship_8k_08191c43-3505-49fd-886e-593ad68fc17c.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_2b588235-3b32-4229-bd66-25deecbd19d6.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_34dc0b2e-d2a0-4382-85ef-44a7732482ad.png",
+    title: "interior1",
+  },
+
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_8863af5a-6171-4ea3-a959-1583ea614a96.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_modern_room_sized_bathroom_with_dark_marble_and_g_dd98318e-c16b-4e68-99c3-aeeeac88f0fc.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_4d58bab6-9cf5-495e-a070-55d33bca5bdf.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_1eb2b969-600b-4b65-8629-995388e7997e.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_8ea54716-bac4-4a6a-9fa1-b78b75e9646d.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_844f01ce-ed04-4bd9-86b6-61abca034354.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_dark_theme_glass_doors_hidden_warm_6811c0ae-d322-4c26-a409-0ea4b028b5af1.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_1eb2b969-600b-4b65-8629-995388e7997e.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_22039f4b-79ae-4f21-8e97-a31ae291c156.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_ea76b873-d1c2-4980-95a4-0e019a35ff0d1.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_ea76b873-d1c2-4980-95a4-0e019a35ff0d.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_light_theme_glass_doors_hidden_war_f965f322-8d9e-4d9a-bec2-16b76a6ef398.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_with_no_doors_dark_theme_hidden_wa_5cee7249-1265-4612-921b-f65467b583fb.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_with_no_doors_dark_theme_hidden_wa_6c86a4d0-3deb-432e-b5e6-886d31cf7987.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_big_walk_in_closet_with_no_doors_dark_theme_hidden_wa_7b4e2fcd-d7eb-4693-b9b1-10efa9c6a008.png",
+    title: "interior1",
+  },
+
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_dark_theme_hidden_warm_ligh_9d217093-a72f-4fa4-81d7-6627f367a575.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_dark_theme_hidden_warm_ligh_ba229ea7-5080-406c-b4f7-178534b298ff.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_dark_theme_hidden_warm_ligh_c9811aee-81b6-4fef-b1dc-bbe2d8f61bf5.png",
+    title: "interior1",
+  },
+
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_dark_theme_hidden_warm_ligh_fd0b4170-9637-415d-9437-15633af2fae4.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_light_theme_hidden_warm_lig_584c364c-e3b8-48c5-8084-1abbdf2af67b.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_light_theme_hidden_warm_lig_943213d3-044f-4fd7-b9cf-cf119ea39d9b.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_light_theme_hidden_warm_lig_b99ff668-3835-43a2-9922-e699f4c8f95c.png",
+    title: "interior1",
+  },
+
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_with_marble_dark_theme_hidd_1a66aa62-4910-4669-a2e6-cf0fb142df3e.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_with_marble_dark_theme_hidd_6b9337af-c7fb-469d-870f-7ded7be5ee0d.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_with_marble_dark_theme_hidd_7dbd4e8c-9625-4c58-8813-748f5be5b7dc.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_with_marble_dark_theme_hidd_43e57931-89aa-40bc-99d7-53dddcf983061.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_huge_cozy_modern_bathroom_with_marble_dark_theme_hidd_43e57931-89aa-40bc-99d7-53dddcf98306.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_room_size_modern_bathroom_all_white_with_marble_and_H_3f134fe6-1e5f-4c55-bcbf-c5fd67322ac1.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_room_size_modern_bathroom_all_white_with_marble_and_H_7d5ff4b3-94ec-44bb-b847-4ae7849b4722.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_room_size_modern_bathroom_all_white_with_marble_and_H_701afe57-5081-4c83-8945-17185a6e7dc2.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_room_size_modern_bathroom_all_white_with_marble_and_H_fa7524a7-bd3d-4e8a-8206-39790accba06.png",
+    title: "interior1",
+  },
+
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_shinny_room_with_one_plant_white_sofa_soft_theme_past_957edaef-c4a9-4bfb-b363-23d21b5a3312.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_a_shinny_room_with_one_plant_white_sofa_soft_theme_past_3972f193-5265-4c83-8359-0d33ea0afd44.png",
     title: "interior1",
   },
 ];
