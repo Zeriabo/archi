@@ -517,6 +517,55 @@ const interior = [
     img: "/assets/images/interior/interior/MoChiah_a_shinny_room_with_one_plant_white_sofa_soft_theme_past_3972f193-5265-4c83-8359-0d33ea0afd44.png",
     title: "interior1",
   },
+  {
+    img: "/assets/images/interior/interior/MoChiah_home_decor_Wall_prints_realistic_impressive_8k_UHD_1a13cffe-5912-4617-9530-4d25952a8809.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_home_decor_Wall_prints_realistic_impressive_8k_UHD_2f95b706-5ed4-46f5-bc12-8c1167da8b4a.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_home_decor_Wall_prints_realistic_impressive_8k_UHD_5a48a841-2c96-49b2-a94e-a6805c6acdaf.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_home_decor_Wall_prints_realistic_impressive_8k_UHD_27ff89f2-f829-42ac-8523-15453496489e.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_home_decor_Wall_prints_realistic_impressive_8k_UHD_340a3b03-71d3-4d6f-82ce-a35ba24fedc1.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_home_decor_Wall_prints_realistic_impressive_8k_UHD_aed7be78-7224-45ac-8a92-bcc7243b0cc7.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_home_decor_Wall_prints_realistic_impressive_8k_UHD_be5f52be-cf40-482b-8a09-06f2c20ae75a.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_home_decor_Wall_prints_realistic_impressive_8k_UHD_ef8df3c5-6667-47a4-8c7e-955c40f9cdbb.png",
+    title: "interior1",
+  },
+
+  {
+    img: "/assets/images/interior/interior/MoChiah_InteriorMaster_Bedroom_lights_Dubai_View_Art_Deco_theme_756aef78-a52c-4abe-a05f-ebcc980143f2.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_InteriorMaster_Bedroom_lights_Dubai_View_Art_Deco_theme_4333019b-167e-4d1c-a95e-f64c692ba23b.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_InteriorMaster_Bedroom_lights_Dubai_View_Art_Deco_theme_e343ff7c-c0c6-4acc-896e-37bc6ecf5904.png",
+    title: "interior1",
+  },
+  {
+    img: "/assets/images/interior/interior/MoChiah_living_room_contemporay_design_with_garden_view_light_c_beb22673-0ba4-428c-a219-3f9817dff165.png",
+    title: "interior1",
+  },
 ];
 
 export default Interior;
