@@ -6,19 +6,16 @@
       "first": "Building beyond boundaries:",
       "second": "Explore the power of innovative architecture with us."
     },
-    "image": "/assets/images/slider/1921-1442.png",
-    "image2": "/assets/images/slider/1921-1442.png"
+    "image": "/assets/images/slider/1921-1442.png"
   },
   {
     "id": 2,
-    "title": { "first": "interior", "second": "Classic and Modern" },
+    "title": { "first": "Interior", "second": "Classic and Modern" },
     "content": {
       "first": "Transforming spaces into dreams: ",
       "second": "Experience the magic of our interior design"
     },
     "image": "/assets/images/slider/1920-1153.png"
-    ,
-    "image2": "/assets/images/slider/1921-1442.png"
   },
 
   {
@@ -28,10 +25,9 @@
       "first": "Crafting elegance, tailoring uniqueness",
       "second": "Our designs are as exceptional as you are."
     },
-    "image1": "/assets/images/slider/1920-1282.jpg"
-    ,
-    "image2": "/assets/images/slider/1921-1442.png"
+    "image": "/assets/images/slider/1920-1282.png"
     
+
   },
   
   {
